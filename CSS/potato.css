@@ -27,6 +27,9 @@ nav {
 .profile_potato {
     width: 100%;
 }
+.body_bg {
+    background-color: NavajoWhite;
+}
 
 /* try to find a way to have the lefthand bar extend all the way to the bottom of the page. Potentially fixed in place, with room for the header on top? */
 /* deal with those unappealing margins; maybe add a non-white background? */

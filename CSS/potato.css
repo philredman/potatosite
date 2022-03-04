@@ -1,0 +1,32 @@
+nav {
+    height: 60px;
+    background-color: plum;
+}
+.inline-block {
+    padding: 20px;
+    display: inline-block;
+    background-color: purple;
+    color: lightgray;
+    border-radius: 20px;
+}
+.lefthand {
+    float: left;
+    background-color: lightslategray;
+    width: 29%;
+    height: 100%;
+}
+.righthand {
+    float: left;
+    width: 70%;
+    text-align: center;
+}
+.heropotato {
+    width: 95%;
+    margin: 10px;
+}
+.profile_potato {
+    width: 100%;
+}
+
+/* try to find a way to have the lefthand bar extend all the way to the bottom of the page. Potentially fixed in place, with room for the header on top? */
+/* deal with those unappealing margins; maybe add a non-white background? */
